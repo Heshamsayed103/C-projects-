@@ -1,0 +1,3 @@
+﻿  Project 16.cpp
+E:\C++ with Osama Elzero\PROJECTS\Project 16\Project 16\Project 16.cpp(10,1): error C4700: uninitialized local variable 'num3' used
+E:\C++ with Osama Elzero\PROJECTS\Project 16\Project 16\Project 16.cpp(10,1): error C4700: uninitialized local variable 'num4' used
